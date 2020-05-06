@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  background-color: #f0e8c5;
+} 	
+.wrapper {
+	width: 75vw;
+	margin: 0 auto;
+	display: grid;
+	grid-template-rows: 300px 100px;
+	background-color: white;
+}
+
+.Sections {
+	margin: 0;
+	display: grid;
+	grid-template-columns: 15vw 15vw 15vw 15vw 15vw;
+}
+
+.Titles {
+	margin: 0;
+	display: grid;
+	grid-template-columns: 37.5vw 37.5vw;
+}
